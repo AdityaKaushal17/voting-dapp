@@ -16,9 +16,9 @@ This project is a simple implementation of a voting system done to understand th
 
 ## Screenshots
 
-![coverpage](screenshots/cover.png) &nbsp;
-![vote](screenshots/vote.png) &nbsp;
-![admin](screenshots/admin.png) &nbsp;
+![coverpage](screenshotss/cover.png) &nbsp;
+![vote](screenshotss/vote.png) &nbsp;
+![admin](screenshotss/admin.png) &nbsp;
 
 ## Installation
 
